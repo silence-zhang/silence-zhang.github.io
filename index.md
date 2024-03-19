@@ -1,6 +1,3 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-
-## Welcome to my privice zone
-
-### Let's begain!!!
+## 欢迎来到我的个人学习乐园
+在这里，你将和我一起在知识的海洋里遨游。。。
