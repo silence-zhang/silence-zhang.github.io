@@ -1,4 +1,3 @@
 # About
-Awesome
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
+主打一个随意的个人博客，记录一些技术和生活中的点点滴滴。
