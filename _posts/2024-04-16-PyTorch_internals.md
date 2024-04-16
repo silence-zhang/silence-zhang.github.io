@@ -33,3 +33,24 @@ import torch
 >>> x.stride(-1)
 1
 ```
+
+### Storage
+
+The actual physical data that stores the data of the tensor.
+Storage defines the dtype and physical size of the tensor, while each tensor records the sizes, strides and offset, defining the logical interpretation of the physical memory.
+
+![p4](/images/WX20240416-172607@2x.png)
+
+### Operators
+
+#### Matrix Multiplication(torch.mm)
+
+![p5](/images/WX20240416-173444@2x.png)
+
+### Extensions
+
+![p6](/images/WX20240416-173716@2x.png)
+
+
+
+
