@@ -1,6 +1,6 @@
 # Pytorch Internals
 
-source: <https://pytorch.org/tutorials/beginner/former_torchies/tensor_tutorial.html>
+source: <http://blog.ezyang.com/2019/05/pytorch-internals/?continueFlag=dbeef19c479b88f854b1634b0eb91615>
 
 Here's the table of contents:
 
