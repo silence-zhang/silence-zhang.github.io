@@ -19,7 +19,7 @@ Stride are actually one of the distinctive features of PyTorch. It is a way to r
 
 Stride is the jump necessary to go from one element to the next one in the specified dimension dim. 
 
-![p3](/images/wx20240416-161902@2x.png)
+![p3](/images/WX20240416-161902@2x.png)
 
 ```python
 import torch
